@@ -2,7 +2,9 @@ Metadata-Version: 2.4
 Name: spotify-trainer
 Version: 0.1.0
 Summary: Kurzbeschreibung deines Projekts
-Author-email: Dein Name <dein@email.de>
-License: MIT
+Author-email: Linus Meinders <linus.meinders@festo.com>
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.10
 Requires-Dist: spotipy
 Requires-Dist: pyqt5
