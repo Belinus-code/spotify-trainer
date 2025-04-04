@@ -1,0 +1,9 @@
+pyproject.toml
+src/spotify_trainer/__init__.py
+src/spotify_trainer/app.py
+src/spotify_trainer/gui.py
+src/spotify_trainer.egg-info/PKG-INFO
+src/spotify_trainer.egg-info/SOURCES.txt
+src/spotify_trainer.egg-info/dependency_links.txt
+src/spotify_trainer.egg-info/requires.txt
+src/spotify_trainer.egg-info/top_level.txt

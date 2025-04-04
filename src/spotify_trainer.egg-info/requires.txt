@@ -1,0 +1,2 @@
+spotipy
+pyqt5
